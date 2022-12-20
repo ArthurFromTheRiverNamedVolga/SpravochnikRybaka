@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpravochnikRybaka</string>
+    <string name="fish">Рыбы</string>
+    <string name="na">наживки</string>
+    <string name="sna">снасти</string>
+    <string name="history">истории</string>
+
+</resources>

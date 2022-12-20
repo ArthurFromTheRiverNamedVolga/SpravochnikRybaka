@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/fish"
+            android:id="@+id/id_fish"
+            android:icon="@drawable/ic_fish"/>
+
+        <item android:title="@string/na"
+            android:id="@+id/id_juk"
+            android:icon="@drawable/ic_juk"/>
+
+        <item android:title="@string/sna"
+            android:id="@+id/id_palec"
+            android:icon="@drawable/ic_palec"/>
+
+        <item android:title="@string/history"
+            android:id="@+id/id_woman"
+            android:icon="@drawable/ic_woman"/>
+
+
+    </group>
+
+    <item android:title="Category2">
+        <menu>
+            <item android:title="@string/na"
+
+                android:icon="@drawable/ic_juk"/>
+
+            <item android:title="@string/sna"
+
+                android:icon="@drawable/ic_palec"/>
+
+            <item android:title="@string/history"
+
+                android:icon="@drawable/ic_woman"/>
+        </menu>
+    </item>
+
+
+</menu>
