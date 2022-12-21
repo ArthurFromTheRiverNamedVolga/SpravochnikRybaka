@@ -22,22 +22,7 @@
 
 
     </group>
-
-    <item android:title="Category2">
-        <menu>
-            <item android:title="@string/na"
-
-                android:icon="@drawable/ic_juk"/>
-
-            <item android:title="@string/sna"
-
-                android:icon="@drawable/ic_palec"/>
-
-            <item android:title="@string/history"
-
-                android:icon="@drawable/ic_woman"/>
-        </menu>
-    </item>
+    
 
 
 </menu>
